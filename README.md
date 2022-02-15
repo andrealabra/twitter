@@ -25,3 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="twitterapp.gif" width=250><br>
 
+ updated gif 
+ 
+<img src="updated.gif" width=250><br>
+
